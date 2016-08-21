@@ -13,6 +13,8 @@
 # please share
 `TNX`_SEED_ *TEAM*
 # join *us* `{`[کلیک کن](https://telegram.me/DiMoN_TM) `}`
-`FOR clone PLUGiNS'
-'git clone https://github.com/DiMON-TEAM/PLUGiNS
-END😂`
+`FOR clone PLUGiNS
+
+ git clone https://github.com/DiMON-TEAM/PLUGiNS
+
+ END😂`
