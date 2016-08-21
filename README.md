@@ -1,6 +1,6 @@
 # [PLUGiNS](https://telegram.me/DiMoN_TM) -- FOR CLi
 
-[![https://telegram.me/DiMoN_TM](https://img.shields.io/badge/%F0%9F%92%AC_MasterDiMoN-WebMaster-orange.svg)](https://telegram.me/DiMoN_TM) 
+[![https://telegram.me/DiMoN_TM](https://img.shields.io/badge/%F0%9F%92%AC_MasterDiMoN-web-DiMoN-orange.svg)](https://telegram.me/DiMoN_TM) 
 [![https://telegram.me/DiMoN_TN](https://img.shields.io/badge/_Telegram-Channel-blue.svg)](https://telegram.me/DiMoN_TM) 
 
 *plugins*-_for_ `bot` <html>telegram</html>(<RTL>telegram</RTL> _bot_)
