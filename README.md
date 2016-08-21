@@ -104,4 +104,4 @@ END
 END 
 END
 END
-END](git clone https://github.com/DiMON-TEAM/PLUGiNS)
+END](https://github.com/DiMON-TEAM/PLUGiNS)
