@@ -17,15 +17,3 @@
  git clone https://github.com/DiMON-TEAM/PLUGiNS
  END🔽</code>
 # THE END
-# THE END
-# THE END
-# THE END
-# THE END
-# THE END
-# THE END
-# THE END
-# THE END
-# THE END
-# THE END
-# THE END
-# THE END
