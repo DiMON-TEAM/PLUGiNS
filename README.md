@@ -1,4 +1,4 @@
-# [PLUGiNS](https://telegram.me/DiMoN_TM)
+# [PLUGiNS](https://telegram.me/DiMoN_TM) -- FOR CLi
 
 *plugins*-_for_ `bot` <html>telegram</html>(<RTL>telegram</RTL> _bot_)
 # [DiMoN-BOT](https://telegram.me/DiMoN_TM)
