@@ -1,6 +1,6 @@
 # [PLUGiNS](https://telegram.me/DiMoN_TM)
-)
-plugins-for bot telegram(telegram bot)
+
+*plugins*-_for_ `bot` <html>telegram</html>(<RTL>telegram</RTL> _bot_)
 # [DiMoN-BOT](https://telegram.me/DiMoN_TM)
 # Support and development
 # [Support](https://telegram.me/DiMoN_TM)
