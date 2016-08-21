@@ -1,6 +1,6 @@
 # [PLUGiNS](https://telegram.me/DiMoN_TM) -- FOR CLi
 
-[![https://telegram.me/DiMoN_TM](https://img.shields.io/badge/_DiMoN-TM-red.svg)](https://telegram.me/DiMoN_TM)
+[![https://telegram.me/DiMoN_TM](https://img.shields.io/badge/_DiMoN-TM-yellow.svg)](https://telegram.me/DiMoN_TM)
 [![https://telegram.me/masterdimon](https://img.shields.io/badge/_MasTer-DiMoN-blue.svg)](https://telegram.me/masterdimon) 
 [![https://telegram.me/DiMoN_bot](https://img.shields.io/badge/_Telegram-BOT-yellow.svg)](https://telegram.me/DiMoN_bot)
 [![https://telegram.me/DiMoN_TM](https://img.shields.io/badge/_Telegram-Channel-red.svg)](https://telegram.me/DiMoN_TM) 
