@@ -12,3 +12,4 @@
 [GiT-MasTer-DiMoN](https://github.com/DiMoN-TEAM) ([Telegram](https://telegram.me/DiMoN_Official))
 # please share
 `TNX`_SEED_ *TEAM*
+[PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS PLUGiNS](https://telegram.me/DiMoN_TM)
