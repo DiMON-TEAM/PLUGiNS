@@ -1,4 +1,4 @@
-# [PLUGiNS](https://telegram.me/DiMoN_TM
+# [PLUGiNS](https://telegram.me/DiMoN_TM)
 )
 plugins-for bot telegram(telegram bot)
 # [DiMoN-BOT](https://telegram.me/DiMoN_TM)
