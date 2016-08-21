@@ -12,4 +12,4 @@
 [GiT-MasTer-DiMoN](https://github.com/DiMoN-TEAM) ([Telegram](https://telegram.me/DiMoN_Official))
 # please share
 `TNX`_SEED_ *TEAM*
-# join *us* [کلیک کن](https://telegram.me/DiMoN_TM)
+# join *us* # [کلیک کن](https://telegram.me/DiMoN_TM)
