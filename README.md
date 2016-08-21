@@ -16,7 +16,7 @@
 <code>🔼FOR clone PLUGiNS
  git clone https://github.com/DiMON-TEAM/PLUGiNS
  END🔽</code>
-<code>END
+# END
 END
 END
 END
@@ -104,4 +104,4 @@ END
 END 
 END
 END
-END</code>
+END
