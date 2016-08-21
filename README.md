@@ -1,7 +1,9 @@
 # [PLUGiNS](https://telegram.me/DiMoN_TM) -- FOR CLi
 
-[![https://telegram.me/DiMoN_TM](https://img.shields.io/badge/%F0%9F%92%AC_MasterDiMoN-webDiMoN-orange.svg)](https://telegram.me/DiMoN_TM) 
-[![https://telegram.me/DiMoN_TN](https://img.shields.io/badge/_Telegram-Channel-blue.svg)](https://telegram.me/DiMoN_TM) 
+[![https://telegram.me/DiMoN_TM](https://img.shields.io/badge/_DiMoN-TM-red.svg)](https://telegram.me/DiMoN_TM)
+[![https://telegram.me/masterdimon](https://img.shields.io/badge/_MasTer-DiMoN-blue.svg)](https://telegram.me/masterdimon) 
+[![https://telegram.me/DiMoN_bot](https://img.shields.io/badge/_Telegram-BOT-yellow.svg)](https://telegram.me/DiMoN_bot)
+[![https://telegram.me/DiMoN_TM](https://img.shields.io/badge/_Telegram-Channel-red.svg)](https://telegram.me/DiMoN_TM) 
 
 *plugins*-_for_ `bot` <html>telegram</html>(<RTL>telegram</RTL> _bot_)
 # [DiMoN-BOT](https://telegram.me/DiMoN_TM)
